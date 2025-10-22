@@ -1,11 +1,9 @@
 <h1 align="center">Hola 👋, soy Adrián Utrilla Sánchez</h1>
 <h3 align="center">Ingeniero informático de Toledo</h3>
 
-- 🔭 Estoy trabajando en **mi TFG**
+- 🔭 Estoy estudiando un **Master universitario en Ciberseguridad en la universidad Alfonso X de Madrid**
 
-- 🌱 Estoy aprendiendo **Azure**
-
-- 💬 Preguntame sobre **Packet Tracer/Python**
+- 🌱 Estoy aprendiendo **Microsoft Azure, Exchange, SQL Server**
 
 - 📫 Donde me puedes encontrar **adrian.utrilla@outlook.es**
 
