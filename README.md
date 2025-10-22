@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Adrián Utrilla Sánchez</h1>
 <h3 align="center">Ingeniero informático de Toledo</h3>
 
-- 🔭 Estoy estudiando un **Master universitario en Ciberseguridad en la universidad Alfonso X de Madrid**
+- 🔭 Actualmente me encuentro estudiando un **Master universitario en Ciberseguridad en la universidad Alfonso X de Madrid**
 
 - 🌱 Estoy aprendiendo **Microsoft Azure, Exchange, SQL Server**
 
